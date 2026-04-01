@@ -81,7 +81,7 @@
 
 .hero-box h1 span {
     font-weight: bold;
-    color: #6366f1;
+    color: #684406;
 }
 
 /* Hero */
@@ -94,7 +94,7 @@ header svg {
 
 /* Tentang */
 .tentang {
-    background-color: #e37e0a;
+    background-color: #684406;
     padding-block: 50px;
     color: white;
 }
@@ -116,7 +116,7 @@ header svg {
 .tentang-box .box:nth-child(1) img {
     width: 300px;
     padding: 10px 10px 0 10px;
-    background-color: #6366f1;
+    background-color: #684406;
     border: 1px solid white;
     border-radius: 10px;
     margin-inline: auto;
@@ -142,7 +142,7 @@ header svg {
 
 
 .tentang-box .box:nth-child(1) a:hover {
-    background-color: white;
+    background-color: #684406;
     color: black;
     font-weight: bold;
 }
@@ -237,7 +237,7 @@ header svg {
 }
 
 .proyek-box .proyek-desc .proyek-btn a {
-    background-color: #6366f1;
+    background-color: #684406;
     padding: 10px 20px;
     color: white;
     text-decoration: none;
@@ -246,7 +246,7 @@ header svg {
 }
 
 .proyek-box .proyek-desc .proyek-btn a:hover {
-    background-color: #6366f1;
+    background-color: #684406;
 
 }
 
@@ -286,7 +286,7 @@ header svg {
 }
 
 .pendidikan-box .card h2 {
-    color: #7c73ff;
+    color: #684406;
     margin-bottom: 10px;
 }
 
@@ -301,7 +301,7 @@ header svg {
 
 /* Kontak */
 footer {
-    background-color: #6366f1;
+    background-color: #684406;
     margin-top: -10px;
     padding: 20px;
     display: flex;
@@ -340,7 +340,7 @@ footer .social a {
     position: fixed;
     bottom: -50px;
     right: 40px;
-    background-color: #6366f1;
+    background-color: #684406;
     width: 50px;
     height: 50px;
     border-radius: 100px;
@@ -360,7 +360,7 @@ footer .social a {
 }
 
 .scroll-up:hover {
-    background-color: #6366f1;
+    background-color: #684406;
 }
 
 .scroll-up a {
